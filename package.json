@@ -1,0 +1,21 @@
+{
+  "name": "call-recording-demo",
+  "version": "1.0.0",
+  "description": "Simple call recording demo in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "RingCentral"
+  ],
+  "author": "Paco-Vu",
+  "license": "MIT",
+  "dependencies": {
+    "@ringcentral/sdk": "^4.0.0",
+    "@ringcentral/subscriptions": "^4.6.1"
+  },
+  "engines": {
+    "node": "10.5.0"
+  }
+}
