@@ -1,4 +1,4 @@
-# call-recording-demo-js
+# Call Recording Demo in Node JS
 A simple call recording demo in Node JS
 
 ## Create a RingCentral application
