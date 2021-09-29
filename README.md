@@ -40,4 +40,4 @@ $ node index.js
 ```
 * Login the RingCentral soft-phone with the user login credentials you use in this app
 * Make an inbound call to the phone number of the logged in user and answer the call from the RingCentral soft-phone
-* Read the console to see how the app run the demo
+* Read the console to see how the app is running
